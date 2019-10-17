@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:realm] /home/niteshkumar/bijnisAssApp/node_modules/realm/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/niteshkumar/bijnisAssApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e23f38f8266482362da1df0e5baf32bd/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/da06409cbfb73e56034e23eb4c7c9f6b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/374e9ad6a1e23865a147a8bdd37847bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/de7f830160e78c3ff0a8002d7f3d061f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/20a31bf9ed46135a4350cfcfea6e8204/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/3f6397f3bdb0e27d3fb5e40dca71a8b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/2a341d680aa06c3f29a14630f3eb85ad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/64395e5413b141d7de629517f5734391/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ccc38cfd89abcfe84869bf1e1e950503/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/70195003f5efe102d57fece7d6d34fd7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/0735d1d0a31642f976e1cd4241f0570e/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/b562fc4e84843d983be2756184dd1422/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/6cf8276f3b5851a2ce468ca258c36332/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/49116c8ba4fd03602a152021af1cc63b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/30514b9d41adb156d66d43c339672b2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/85824aadde3bb6b1446a42c3968fc5d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/67a4550dd22615a37fc89b2ce2c0f6ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/4696ea7e439868d380366cfbf33b9cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/dc99bd2e6f452b5dd572b7b660490d55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/c9779b2ea1c4674d413ae3272783e783/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/2f45d91e38c2f67fe146f6ea55c7202b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/62b1c77e75a19ce1a5ee4f9c1dbcca15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/5ae441953721d8992e761a6b1d4924b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e91126a102d9ba82152366b4633104c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ae838bf2add45dd535276ef7debba97c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f87340579d3229fef932befcb38c2017/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/a37a273b51d552f891e4b3dfeed6a070/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/50f4c1bd583f0393dfd60bb31097a1fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/089fac04b1d78beaba79bd177b0b3211/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f12db08625eb6b26cbbdcc19ecc13daa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/532be6dad8f5fc8e4ad55f27e04e2e76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/15d79833e501c8ef682fb0bb9c88ac18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/6e6dc11f932a216246846de7fe1b3e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/66065b8b6f215a9aa29c68dfa5b91e5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/54dbd011b7b17272d407e3006880114a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/c4119e4e86a2e23743cae48574084efc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/de65f9c04877a55a9252487a3d6632cb/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:realm] /home/niteshkumar/bijnisAssApp/node_modules/realm/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:realm] /home/niteshkumar/bijnisAssApp/node_modules/realm/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e23f38f8266482362da1df0e5baf32bd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e23f38f8266482362da1df0e5baf32bd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/0735d1d0a31642f976e1cd4241f0570e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/0735d1d0a31642f976e1cd4241f0570e/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ae838bf2add45dd535276ef7debba97c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ae838bf2add45dd535276ef7debba97c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f87340579d3229fef932befcb38c2017/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f87340579d3229fef932befcb38c2017/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ae838bf2add45dd535276ef7debba97c/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.bijnisassapp.MainActivity
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:realm] /home/niteshkumar/bijnisAssApp/node_modules/realm/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:realm] /home/niteshkumar/bijnisAssApp/node_modules/realm/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/niteshkumar/bijnisAssApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/niteshkumar/bijnisAssApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e23f38f8266482362da1df0e5baf32bd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e23f38f8266482362da1df0e5baf32bd/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/da06409cbfb73e56034e23eb4c7c9f6b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/da06409cbfb73e56034e23eb4c7c9f6b/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/374e9ad6a1e23865a147a8bdd37847bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/374e9ad6a1e23865a147a8bdd37847bd/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/de7f830160e78c3ff0a8002d7f3d061f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/de7f830160e78c3ff0a8002d7f3d061f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/20a31bf9ed46135a4350cfcfea6e8204/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/20a31bf9ed46135a4350cfcfea6e8204/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/3f6397f3bdb0e27d3fb5e40dca71a8b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/3f6397f3bdb0e27d3fb5e40dca71a8b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/2a341d680aa06c3f29a14630f3eb85ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/2a341d680aa06c3f29a14630f3eb85ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/64395e5413b141d7de629517f5734391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/64395e5413b141d7de629517f5734391/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ccc38cfd89abcfe84869bf1e1e950503/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ccc38cfd89abcfe84869bf1e1e950503/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/70195003f5efe102d57fece7d6d34fd7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/70195003f5efe102d57fece7d6d34fd7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/0735d1d0a31642f976e1cd4241f0570e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/0735d1d0a31642f976e1cd4241f0570e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/b562fc4e84843d983be2756184dd1422/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/b562fc4e84843d983be2756184dd1422/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/6cf8276f3b5851a2ce468ca258c36332/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/6cf8276f3b5851a2ce468ca258c36332/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/49116c8ba4fd03602a152021af1cc63b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/49116c8ba4fd03602a152021af1cc63b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/30514b9d41adb156d66d43c339672b2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/30514b9d41adb156d66d43c339672b2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/85824aadde3bb6b1446a42c3968fc5d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/85824aadde3bb6b1446a42c3968fc5d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/67a4550dd22615a37fc89b2ce2c0f6ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/67a4550dd22615a37fc89b2ce2c0f6ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/4696ea7e439868d380366cfbf33b9cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/4696ea7e439868d380366cfbf33b9cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/dc99bd2e6f452b5dd572b7b660490d55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/dc99bd2e6f452b5dd572b7b660490d55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/c9779b2ea1c4674d413ae3272783e783/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/c9779b2ea1c4674d413ae3272783e783/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/2f45d91e38c2f67fe146f6ea55c7202b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/2f45d91e38c2f67fe146f6ea55c7202b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/62b1c77e75a19ce1a5ee4f9c1dbcca15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/62b1c77e75a19ce1a5ee4f9c1dbcca15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/5ae441953721d8992e761a6b1d4924b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/5ae441953721d8992e761a6b1d4924b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e91126a102d9ba82152366b4633104c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/e91126a102d9ba82152366b4633104c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ae838bf2add45dd535276ef7debba97c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/ae838bf2add45dd535276ef7debba97c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f87340579d3229fef932befcb38c2017/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f87340579d3229fef932befcb38c2017/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/a37a273b51d552f891e4b3dfeed6a070/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/a37a273b51d552f891e4b3dfeed6a070/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/50f4c1bd583f0393dfd60bb31097a1fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/50f4c1bd583f0393dfd60bb31097a1fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/089fac04b1d78beaba79bd177b0b3211/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/089fac04b1d78beaba79bd177b0b3211/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f12db08625eb6b26cbbdcc19ecc13daa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/f12db08625eb6b26cbbdcc19ecc13daa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/532be6dad8f5fc8e4ad55f27e04e2e76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/532be6dad8f5fc8e4ad55f27e04e2e76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/15d79833e501c8ef682fb0bb9c88ac18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/15d79833e501c8ef682fb0bb9c88ac18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/6e6dc11f932a216246846de7fe1b3e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/6e6dc11f932a216246846de7fe1b3e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/66065b8b6f215a9aa29c68dfa5b91e5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/66065b8b6f215a9aa29c68dfa5b91e5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/54dbd011b7b17272d407e3006880114a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/54dbd011b7b17272d407e3006880114a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/c4119e4e86a2e23743cae48574084efc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/c4119e4e86a2e23743cae48574084efc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/de65f9c04877a55a9252487a3d6632cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/niteshkumar/.gradle/caches/transforms-2/files-2.1/de65f9c04877a55a9252487a3d6632cb/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/niteshkumar/bijnisAssApp/android/app/src/debug/AndroidManifest.xml:5:22-75

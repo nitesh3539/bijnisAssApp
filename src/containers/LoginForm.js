@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Dimensions from 'Dimensions';
 import {
   StyleSheet,
   View,
   TouchableOpacity,
   ImageBackground,
   Image,
-  Text
+  Text,
+  Dimensions
 } from 'react-native';
 
 import UserInput from '../component/UserInput';
@@ -16,7 +16,6 @@ import { bindActionCreators } from "redux";
 import usernameImg from '../images/username.png';
 import passwordImg from '../images/password.png';
 import eyeImg from '../images/eye_black.png';
-import tymLineLogo from '../images/tymline_logo.jpg'
 import bgSrc from '../images/wallpaper.png';
 import style from '../lib/FeStyle'
 import { Button } from 'native-base';
@@ -74,10 +73,9 @@ class LoginForm extends Component {
   render() {
     return (
       <ImageBackground style={[styles.picture]} source={bgSrc}>
-        {/* <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', marginTop: '10%' }}>
-          <Image source={tymLineLogo} style={{ width: 100, height: 50 }} />
-          <Text style={{ fontWeight: '500', fontSize: 20, color: '#fff', marginTop: 20 }}>TYM  LINE</Text>
-        </View> */}
+        <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', marginTop: '10%' }}>
+          <Text style={{ fontWeight: '500', fontSize: 20, color: '#fff', marginTop: 20 }}>BIJ NIS</Text>
+        </View> 
         <View style={styles.container}>
           <UserInput
             source={usernameImg}

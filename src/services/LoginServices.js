@@ -17,7 +17,7 @@ class LoginService {
             } else {
                 usernamePasswordValue[username] = password
                 await keyValueDB.saveDataInStore(LOGGED_IN_ROUTE, username)
-                keyValueDB.saveDataInStore(USERNAME_PASSWORD_STORE, usernamePasswordValue)
+                await keyValueDB.saveDataInStore(USERNAME_PASSWORD_STORE, usernamePasswordValue)
                 navigate('ProfileView', { userId: username })
             }
         } else {
