@@ -10,6 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.6.2",
     "immutable": "4.0.0-rc.12",
     "js-sha512": "0.7.1",
     "jsonschema": "1.2.4",

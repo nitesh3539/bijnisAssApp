@@ -5,6 +5,7 @@ INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifes
 INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /home/niteshkumar/bijnisAssApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /home/niteshkumar/bijnisAssApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /home/niteshkumar/bijnisAssApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:realm] /home/niteshkumar/bijnisAssApp/node_modules/realm/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -137,6 +138,8 @@ uses-sdk
 INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/niteshkumar/bijnisAssApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /home/niteshkumar/bijnisAssApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/niteshkumar/bijnisAssApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /home/niteshkumar/bijnisAssApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/niteshkumar/bijnisAssApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/niteshkumar/bijnisAssApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41

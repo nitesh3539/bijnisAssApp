@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 17 20:47:04 IST 2019
+#Mon Oct 21 18:59:51 IST 2019
 56.path=lib/x86_64/libglog_init.so
 5.base=/home/niteshkumar/bijnisAssApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/niteshkumar/bijnisAssApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

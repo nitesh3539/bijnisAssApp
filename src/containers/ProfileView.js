@@ -29,6 +29,10 @@ import MaterialIcons from "react-native-vector-icons/MaterialIcons";
 import _ from "lodash";
 import { navigate } from "../lib/NavigationServices";
 import {SET_PROILE_LIST} from '../lib/Constants'
+import { keyValueDB } from '../lib/DbServices'
+import AsyncStorage from '@react-native-community/async-storage';
+
+
 
 
 function mapStateToProps(state) {
@@ -138,13 +142,18 @@ class ProfileView extends PureComponent {
     )
   }
 
-  makeFavourite(selectedId, pokemonList){
+  async makeFavourite(selectedId, pokemonList){
     let cloneList = JSON.parse(JSON.stringify(pokemonList))
     for(let id in cloneList){
       if(cloneList[id].id == selectedId){
         cloneList[id].fav = true
         break
       }
+    }
+    try{
+     AsyncStorage.setItem('POKEMON_LIST', JSON.stringify(cloneList))
+    }catch(err){
+      console.log("err1212",err)
     }
     this.props.actions.setState(SET_PROILE_LIST, cloneList)
   }
@@ -209,7 +218,7 @@ class ProfileView extends PureComponent {
                 width : '49%'
               }}
               onPress={() => {
-                this.makeFavourite(
+                 this.makeFavourite(
                   item.id,
                   this.props.pokemonList
                 );
